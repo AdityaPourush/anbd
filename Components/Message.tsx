@@ -2,12 +2,12 @@ import React from 'react'
 
 const Message = () => {
   return (
-    <div className='p-10 bg-amber-200'>
+    <div className='p-10 bg-amber-200 font-poppins'>
         <p>Happy Birthday Anni...</p>
 
         <p className='py-2'>Thoda time tha, to soche kuch alag andaaz m wish karte hain, umeed h pasand aaya hoga.</p>
 
-        <p>Umeed or asha or prarthna hum bhi karenge Anni ki tum hamesha khush raho, sukhi raho or duniya m jitni acchi cheezen ho sakti h, sab tumhaare paas or tumhaare saath ho. </p>
+        <p>Umeed or asha or prarthna hum bhi karenge Anni ki tum hamesha khush raho, har cheez m tume success mile sukhi raho or duniya m jitni acchi cheezen ho sakti h, sab tumhaare paas or tumhaare saath ho. </p>
         <p>Kabhi bhi tumhe kisi bhi tareeke ka dar n lage, or jinse bhi tum pyaar karti ho, wo hamesha tumhaare saath or paas rahe. Koi door n jaaye.</p>
         <p>Umeed ye bhi karenge Anni ki tum khoob ameer bano, tumhaare paas khoob wealth ho. </p>
 
