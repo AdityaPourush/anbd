@@ -18,7 +18,7 @@ const Message = () => {
         <p>Happy Bithday the Special One....</p>
         <p>Happy Birthday Anni.</p>
         <p>You have been and always will be the special one for me Anni, Aise, likhte hi chale jaayenge, magar  </p>
-        <p>I am always with you Anni, no matter what comes, and I do not at all expect anything back from you.</p>
+        <p>I am always with you Anni, no matter what comes, and dont worry, I do not at all expect anything back from you.</p>
         <p>Stay Happy. Happy Birthday Anni.</p>
     </div>
   )
