@@ -88,12 +88,12 @@ class Firework {
 }
 
 class Birthday {
-  width: number;
-  height: number;
-  spawnA: number;
-  spawnB: number;
-  spawnC: number;
-  spawnD: number;
+  width!: number;
+  height!: number;
+  spawnA!: number;
+  spawnB!: number;
+  spawnC!: number;
+  spawnD!: number;
   fireworks: Firework[];
   counter: number;
 
