@@ -2,7 +2,7 @@ import React from 'react'
 
 const Message = () => {
   return (
-    <div className='p-2 bg-amber-200'>
+    <div className='p-10 bg-amber-200'>
         <p>Happy Birthday Anni...</p>
 
         <p className='py-2'>Thoda time tha, to soche kuch alag andaaz m wish karte hain, umeed h pasand aaya hoga.</p>
